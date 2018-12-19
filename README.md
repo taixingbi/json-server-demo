@@ -1,4 +1,4 @@
-#### run   
+#### run json server
         json-server --watch db.json     
         // postman
         http://localhost:3000/posts
